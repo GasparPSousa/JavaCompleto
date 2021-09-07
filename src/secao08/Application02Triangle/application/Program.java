@@ -1,6 +1,6 @@
-package secao08.Application02.application;
+package secao08.Application02Triangle.application;
 
-import secao08.Application02.entities.Triangle;
+import secao08.Application02Triangle.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

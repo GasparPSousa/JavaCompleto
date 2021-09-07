@@ -1,6 +1,6 @@
-package secao08.Application03;
+package secao08.Application03Estoques;
 
-import secao08.Application03.entities.Product;
+import secao08.Application03Estoques.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package secao08.Application03.entities;
+package secao08.Application03Estoques.entities;
 
 public class Product {
 

@@ -1,4 +1,4 @@
-package secao08.Application02.entities;
+package secao08.Application02Triangle.entities;
 
 public class Triangle {
 
