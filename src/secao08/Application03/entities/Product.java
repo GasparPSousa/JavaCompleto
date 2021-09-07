@@ -15,7 +15,7 @@ public class Product {
     }
 
     public void removeProducts(int quantity) {
-        this.quantity =- quantity;
+        this.quantity -= quantity;
     }
 
     @Override
