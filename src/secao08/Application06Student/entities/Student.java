@@ -1,4 +1,4 @@
-package secao08.Application06.entities;
+package secao08.Application06Student.entities;
 
 public class Student {
 

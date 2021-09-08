@@ -1,6 +1,6 @@
-package secao08.Application06;
+package secao08.Application06Student;
 
-import secao08.Application06.entities.Student;
+import secao08.Application06Student.entities.Student;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -25,6 +25,8 @@ public class Program {
 
         System.out.printf("FINAL GRADE = %.2f%n", student.media());
         student.status();
+
+        sc.close();
 
     }
 }
