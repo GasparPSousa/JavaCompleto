@@ -2,7 +2,7 @@ package secao09.Application01Estoques.entities;
 
 public class Product {
 
-    private String name;
+    protected String name;
     private double price;
     private int quantity;
 
