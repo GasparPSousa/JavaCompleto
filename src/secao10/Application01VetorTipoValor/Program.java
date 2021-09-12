@@ -1,4 +1,4 @@
-package secao10.Application01;
+package secao10.Application01VetorTipoValor;
 
 import java.util.Locale;
 import java.util.Scanner;
