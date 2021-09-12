@@ -45,4 +45,13 @@ public class ContaCorrente {
         this.saldo -= valor + 5;
     }
 
+    @Override
+    public String toString() {
+        return "ContaCorrente "
+                + numero
+                + ", Correntista: "
+                + nomeTitular
+                + ", Saldo: $ "
+                + String.format("%.2f", saldo);
+    }
 }
